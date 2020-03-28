@@ -10,9 +10,11 @@
 **Running the backend**
 
 npm install (all dependencies are installed)
+
 nodemon server (starts the backend part at localhost:5000)
 
 **Running the frontend**
 
 npm install (all dependencies are installed)
+
 npm start (starts the frontend part at localhost:3000)
